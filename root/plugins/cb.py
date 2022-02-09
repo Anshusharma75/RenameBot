@@ -1,8 +1,8 @@
 '''
-Renam_eBot
-This file is a part of TE_GitHub rename repo 
+Rename Bot
+This file is a part of @INDIAHDM0VIES Team 
 Dont kang !!!
-© TE_GitHub
+@INDIAHDM0VIES 
 '''
 import pyrogram
 from pyrogram import Client, filters
